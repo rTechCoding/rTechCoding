@@ -121,236 +121,96 @@ calculators and workflow-driven interfaces.
 
 ---
 
-# 🚀 Featured Work
+🚀 Featured Work
+📊 Manual Work Cost Calculator
+A responsive business calculator designed to help users understand the cost of repetitive manual processes.
 
-## 📊 Manual Work Cost Calculator
+Highlights
+Dynamic calculations
+Interactive UI
+Responsive design
+Data visualization
+Report generation
+Email report functionality
+User-friendly workflow
+Tech: HTML • CSS • JavaScript • Chart.js
 
-A responsive business calculator designed to help users understand the cost
-of repetitive manual processes.
+💰 ROI Calculator & Reporting
+An interactive ROI experience designed around business efficiency and automation calculations.
 
-### Highlights
-
-- Dynamic calculations
-- Interactive UI
-- Responsive design
-- Data visualization
-- Report generation
-- Email report functionality
-- User-friendly workflow
-
-**Tech:** HTML • CSS • JavaScript • Chart.js
-
----
-
-## 💰 ROI Calculator & Reporting
-
-An interactive ROI experience designed around business efficiency and
-automation calculations.
-
-### Features
-
-- Dynamic calculations
-- Interactive charts
-- Form validation
-- Email report functionality
-- Responsive UI
-- Multi-step experience
-- WordPress AJAX integration
-
-**Tech:** HTML • CSS • JavaScript • Chart.js • WordPress • AJAX
-
----
-
-## 📅 Demo Scheduler
-
-A custom scheduling experience inspired by modern booking platforms.
-
-### Features
-
-- Calendar interface
-- Date selection
-- Time-slot selection
-- Timezone selection
-- Multi-step workflow
-- Guest information
-- Notes
-- Form validation
-- Confirmation screen
-- Email notifications
-- Calendar invitation support
-
-**Tech:** HTML • CSS • JavaScript • WordPress • AJAX • PHP
-
----
-
-# 🎯 Interactive Web Experiences
-
-I also create interactive frontend experiences such as:
-
-- ✨ Animated landing pages
-- 💼 Portfolio websites
-- 🎂 Birthday websites
-- 💌 Invitation websites
-- 🧮 Interactive calculators
-- 🎮 Browser games
-- 📊 Dashboard interfaces
-- 🖼️ Image galleries
-- 🎠 Carousels
-- 🪟 Modal systems
-- 📚 Accordions
-- ✨ Animated UI components
-
----
-
-🚀 Featured Projects
-
-<div align="center">
-
-🏢 Axiever ERP
-
-<img src="https://placehold.co/1000x500/111827/ffffff?text=Axiever+ERP" width="100%" alt="Axiever ERP"/>
-
-💼 ERP UI • 🎨 UI/UX • 📊 Dashboards • ⚡ Frontend
-
-Modern ERP interfaces covering Finance, Inventory, CRM, Orders, HR and Suppliers.
-
-HTML CSS JavaScript Bootstrap Tailwind CSS WordPress
-
-📊 ROI Calculator
-
-<img src="https://placehold.co/1000x500/111827/ffffff?text=ROI+Calculator" width="100%" alt="ROI Calculator"/>
-
-🧮 Calculator • 📈 Charts • 📧 Reports • 🔄 AJAX
-
-Interactive ROI calculator with dynamic calculations, charts, validation and email reporting.
-
-HTML CSS JavaScript Chart.js WordPress AJAX
-
-🧮 Manual Work Cost Calculator
-
-<img src="https://placehold.co/1000x500/111827/ffffff?text=Manual+Work+Cost+Calculator" width="100%" alt="Manual Work Cost Calculator"/>
-
-💰 Business Tool • 📊 Data Visualization • ⚡ Interactive UI
-
-Responsive calculator for estimating repetitive manual work costs with visual results.
-
-HTML CSS JavaScript Chart.js
+Features
+Dynamic calculations
+Interactive charts
+Form validation
+Email report functionality
+Responsive UI
+Multi-step experience
+WordPress AJAX integration
+Tech: HTML • CSS • JavaScript • Chart.js • WordPress • AJAX
 
 📅 Demo Scheduler
+A custom scheduling experience inspired by modern booking platforms.
 
-<img src="https://placehold.co/1000x500/111827/ffffff?text=Demo+Scheduler" width="100%" alt="Demo Scheduler"/>
+Features
+Calendar interface
+Date selection
+Time-slot selection
+Timezone selection
+Multi-step workflow
+Guest information
+Notes
+Form validation
+Confirmation screen
+Email notifications
+Calendar invitation support
+Tech: HTML • CSS • JavaScript • WordPress • AJAX • PHP
 
-📅 Booking • 🌍 Timezone • 📝 Forms • ✉️ Email
+🎯 Interactive Web Experiences
+I also create interactive frontend experiences such as:
 
-Multi-step scheduling experience: Date → Time → Timezone → Details → Confirmation.
-
-HTML CSS JavaScript PHP WordPress AJAX
-
-🎂 Interactive Birthday Website
-
-<img src="https://placehold.co/1000x500/111827/ffffff?text=Birthday+Website" width="100%" alt="Interactive Birthday Website"/>
-
-🎂 Animation • 💖 Interactive UI • 📱 Responsive
-
-Animated personalized celebration experience with responsive layouts and interactive effects.
-
-HTML CSS JavaScript
-
-🏹 Archery Challenge Game
-
-<img src="https://placehold.co/1000x500/111827/ffffff?text=Archery+Challenge+Game" width="100%" alt="Archery Challenge Game"/>
-
-🏹 Game UI • 🎈 Animation • 🎯 Scoring
-
-Interactive browser game featuring balloon targets, scoring and animated gameplay.
-
-HTML CSS JavaScript
-
-</div>
-
+✨ Animated landing pages
+💼 Portfolio websites
+🎂 Birthday websites
+💌 Invitation websites
+🧮 Interactive calculators
+🎮 Browser games
+📊 Dashboard interfaces
+🖼️ Image galleries
+🎠 Carousels
+🪟 Modal systems
+📚 Accordions
+✨ Animated UI components
 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rTechCoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTechCoding&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
+ 
 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rTechCoding&theme=tokyonight&hide_border=true" />
-
-</div>
 
 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rTechCoding&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-</div>
-
 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rTechCoding&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+GitHub Contribution Activity
 
 🎯 Currently Exploring
-
 🤖 AI-powered web experiences
-
 ⚙️ AI & business process automation
-
 🎨 Advanced UI/UX patterns
-
 📱 Responsive design systems
-
 ⚡ Frontend performance optimization
-
 🧩 Reusable UI components
-
 📊 Interactive dashboards
-
 🏢 ERP application experiences
-
 🔄 Advanced form workflows
-
 🌐 Modern web technologies
-
 💡 Development Philosophy
-
 Design first. Build smart. Keep it simple.
 
 I believe great frontend development is not only about writing code.
 
-It's about understanding the user, simplifying complex workflows, creating
-clear visual hierarchy, and building interfaces that feel natural to use.
+It's about understanding the user, simplifying complex workflows, creating clear visual hierarchy, and building interfaces that feel natural to use.
 
 Understand → Design → Develop → Test → Optimize → Improve
-
 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rahat-ansari-52409b223">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/rTechCoding">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:rahatansari933@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
+LinkedIn GitHub Email
 📫 Contact
-
 Rahat Ansari
 
 🎨 UI Designer
@@ -365,12 +225,7 @@ https://www.linkedin.com/in/rahat-ansari-52409b223
 💻 GitHub:
 https://github.com/rTechCoding
 
-<div align="center">
-
 🚀 Building modern interfaces. Solving real problems. Learning every day.
-
 "Good design gets attention. Great UX keeps it."
 
 ⭐ If you find my work useful, consider starring a repository!
-
-</div>
