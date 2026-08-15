@@ -202,7 +202,73 @@ I also create interactive frontend experiences such as:
 
 ---
 
-# 📈 GitHub Analytics
+🚀 Featured Projects
+
+<div align="center">
+
+🏢 Axiever ERP
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=Axiever+ERP" width="100%" alt="Axiever ERP"/>
+
+💼 ERP UI • 🎨 UI/UX • 📊 Dashboards • ⚡ Frontend
+
+Modern ERP interfaces covering Finance, Inventory, CRM, Orders, HR and Suppliers.
+
+HTML CSS JavaScript Bootstrap Tailwind CSS WordPress
+
+📊 ROI Calculator
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=ROI+Calculator" width="100%" alt="ROI Calculator"/>
+
+🧮 Calculator • 📈 Charts • 📧 Reports • 🔄 AJAX
+
+Interactive ROI calculator with dynamic calculations, charts, validation and email reporting.
+
+HTML CSS JavaScript Chart.js WordPress AJAX
+
+🧮 Manual Work Cost Calculator
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=Manual+Work+Cost+Calculator" width="100%" alt="Manual Work Cost Calculator"/>
+
+💰 Business Tool • 📊 Data Visualization • ⚡ Interactive UI
+
+Responsive calculator for estimating repetitive manual work costs with visual results.
+
+HTML CSS JavaScript Chart.js
+
+📅 Demo Scheduler
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=Demo+Scheduler" width="100%" alt="Demo Scheduler"/>
+
+📅 Booking • 🌍 Timezone • 📝 Forms • ✉️ Email
+
+Multi-step scheduling experience: Date → Time → Timezone → Details → Confirmation.
+
+HTML CSS JavaScript PHP WordPress AJAX
+
+🎂 Interactive Birthday Website
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=Birthday+Website" width="100%" alt="Interactive Birthday Website"/>
+
+🎂 Animation • 💖 Interactive UI • 📱 Responsive
+
+Animated personalized celebration experience with responsive layouts and interactive effects.
+
+HTML CSS JavaScript
+
+🏹 Archery Challenge Game
+
+<img src="https://placehold.co/1000x500/111827/ffffff?text=Archery+Challenge+Game" width="100%" alt="Archery Challenge Game"/>
+
+🏹 Game UI • 🎈 Animation • 🎯 Scoring
+
+Interactive browser game featuring balloon targets, scoring and animated gameplay.
+
+HTML CSS JavaScript
+
+</div>
+
+📈 GitHub Analytics
 
 <div align="center">
 
@@ -212,9 +278,7 @@ I also create interactive frontend experiences such as:
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <div align="center">
 
@@ -222,9 +286,7 @@ I also create interactive frontend experiences such as:
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <div align="center">
 
@@ -232,45 +294,44 @@ I also create interactive frontend experiences such as:
 
 </div>
 
----
-
-# 📊 Contribution Activity
+📊 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rTechCoding&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
 
----
+🎯 Currently Exploring
 
-# 🎯 Currently Exploring
+🤖 AI-powered web experiences
 
-- 🤖 AI-powered web experiences
-- ⚙️ AI & business process automation
-- 🎨 Advanced UI/UX patterns
-- 📱 Responsive design systems
-- ⚡ Frontend performance optimization
-- 🧩 Reusable UI components
-- 📊 Interactive dashboards
-- 🏢 ERP application experiences
-- 🔄 Advanced form workflows
-- 🌐 Modern web technologies
+⚙️ AI & business process automation
 
----
+🎨 Advanced UI/UX patterns
 
-# 💡 Development Philosophy
+📱 Responsive design systems
 
-> **Design first. Build smart. Keep it simple.**
+⚡ Frontend performance optimization
+
+🧩 Reusable UI components
+
+📊 Interactive dashboards
+
+🏢 ERP application experiences
+
+🔄 Advanced form workflows
+
+🌐 Modern web technologies
+
+💡 Development Philosophy
+
+Design first. Build smart. Keep it simple.
 
 I believe great frontend development is not only about writing code.
 
 It's about understanding the user, simplifying complex workflows, creating
 clear visual hierarchy, and building interfaces that feel natural to use.
 
-```text
 Understand → Design → Develop → Test → Optimize → Improve
-```
 
----
-
-# 🌐 Let's Connect
+🌐 Let's Connect
 
 <div align="center">
 
@@ -288,31 +349,27 @@ Understand → Design → Develop → Test → Optimize → Improve
 
 </div>
 
----
+📫 Contact
 
-# 📫 Contact
+Rahat Ansari
 
-**Rahat Ansari**
-
-🎨 UI Designer  
-💻 Frontend Developer  
+🎨 UI Designer
+💻 Frontend Developer
 🤖 AI & Automation Enthusiast
 
-📧 **Email:** rahatansari933@gmail.com
+📧 Email: rahatansari933@gmail.com
 
-💼 **LinkedIn:**  
+💼 LinkedIn:
 https://www.linkedin.com/in/rahat-ansari-52409b223
 
-💻 **GitHub:**  
+💻 GitHub:
 https://github.com/rTechCoding
-
----
 
 <div align="center">
 
-### 🚀 Building modern interfaces. Solving real problems. Learning every day.
+🚀 Building modern interfaces. Solving real problems. Learning every day.
 
-**"Good design gets attention. Great UX keeps it."**
+"Good design gets attention. Great UX keeps it."
 
 ⭐ If you find my work useful, consider starring a repository!
 
