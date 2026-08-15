@@ -3,6 +3,7 @@
 ### UI Designer • Frontend Developer • AI & Automation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;Building+Intuitive+Experiences;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 ---
 
 ## 🚀 About Me
