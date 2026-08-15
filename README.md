@@ -206,9 +206,21 @@ I also create interactive frontend experiences such as:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rTechCoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/rTechCoding">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rTechCoding&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
+    alt="Rahat Ansari GitHub Stats"
+    width="49%"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTechCoding&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rTechCoding">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTechCoding&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    alt="Rahat Ansari Top Languages"
+    width="49%"
+  />
+</a>
 
 </div>
 
