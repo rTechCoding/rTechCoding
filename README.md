@@ -3,12 +3,13 @@
 ### UI Designer • Frontend Developer • AI & Automation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;Building+Intuitive+Experiences;Always+Learning+New+Things)](https://git.io/typing-svg)
-
 ---
 
 ## 🚀 About Me
 
-Hello! I'm a passionate Frontend & UI/UX Developer dedicated to crafting clean, responsive, and user-centered interfaces. With a keen eye for design and a strong foundation in modern web technologies, I love transforming complex ideas into beautiful and highly functional web applications.
+I'm a UI Designer and Frontend Developer focused on creating clean, responsive, user-friendly, and conversion-focused digital experiences.
+
+I enjoy turning ideas, designs, and business requirements into polished web interfaces that are fast, responsive, accessible, and easy to maintain.
 
 Currently, I'm contributing my skills at Axiever Inc., where I focus on creating engaging user experiences and robust frontend solutions. I believe in writing modular, scalable, and maintainable code that stands the test of time. Beyond coding, I'm constantly exploring new design patterns, accessibility best practices, and performance optimizations to deliver the best possible web products.
 
