@@ -121,23 +121,6 @@ calculators and workflow-driven interfaces.
 
 ---
 
-🚀 Featured Work
-📊 Manual Work Cost Calculator
-A responsive business calculator designed to help users understand the cost of repetitive manual processes.
-
-Highlights
-Dynamic calculations
-Interactive UI
-Responsive design
-Data visualization
-Report generation
-Email report functionality
-User-friendly workflow
-Tech: HTML • CSS • JavaScript • Chart.js
-
-💰 ROI Calculator & Reporting
-An interactive ROI experience designed around business efficiency and automation calculations.
-
 # 🚀 Featured Work
 
 ## 📊 Manual Work Cost Calculator
