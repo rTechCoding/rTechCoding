@@ -2,20 +2,7 @@
 
 ### UI Designer • Frontend Developer • AI & Automation
 
-<p align="left">
-  <a href="https://github.com/rTechCoding">
-    <img src="https://komarev.com/ghpvc/?username=rTechCoding&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/rTechCoding">
-    <img src="https://img.shields.io/github/followers/rTechCoding?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  </a>
-</p>
-
-> I design and build modern, responsive, and intuitive digital experiences
-> with a strong focus on UI, frontend development, performance, and usability.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;Building+Intuitive+Experiences;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
