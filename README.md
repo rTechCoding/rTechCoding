@@ -1,327 +1,138 @@
-# Hi there! 👋 I'm Rahat Ansari
-
-### UI Designer • Frontend Developer • AI & Automation
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;Building+Intuitive+Experiences;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-
-I'm a UI Designer and Frontend Developer focused on creating clean, responsive, user-friendly, and conversion-focused digital experiences.
-
-I enjoy turning ideas, designs, and business requirements into polished web interfaces that are fast, responsive, accessible, and easy to maintain.
-
-Currently, I'm contributing my skills at Axiever Inc., where I focus on creating engaging user experiences and robust frontend solutions. I believe in writing modular, scalable, and maintainable code that stands the test of time. Beyond coding, I'm constantly exploring new design patterns, accessibility best practices, and performance optimizations to deliver the best possible web products.
-
-### What I Do
-
-- 🎨 UI/UX Design
-- 💻 Frontend Development
-- 📱 Responsive Web Design
-- ⚡ Website Performance Optimization
-- 🧩 WordPress Development
-- 🏢 ERP & Business Application UI
-- 📊 Dashboard & Data Visualization
-- 🤖 AI & Automation Interfaces
-- 🔄 Interactive Forms & Multi-step Workflows
-- 🔧 HTML/CSS/JavaScript Development
-- 🚀 Landing Pages & Marketing Websites
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-## 🎨 UI / UX & Design
-
-<p>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF6B6B?style=for-the-badge" alt="UI UX Design"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge" alt="Responsive Design"/>
-  <img src="https://img.shields.io/badge/Design_Systems-6C63FF?style=for-the-badge" alt="Design Systems"/>
-  <img src="https://img.shields.io/badge/Micro_Interactions-8E44AD?style=for-the-badge" alt="Micro Interactions"/>
-</p>
-
-## 🌐 CMS & Web Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge" alt="AJAX"/>
-</p>
-
-## 📊 Libraries & UI Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-  <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome"/>
-  <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts"/>
-</p>
-
-## 🔧 Development & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-# 🧠 Core Skills
-
-| Skill | Focus |
-|---|---|
-| 🎨 UI/UX Design | Modern, intuitive and user-centered interfaces |
-| 📱 Responsive Design | Mobile-first and cross-device layouts |
-| 💻 Frontend Development | HTML, CSS, JavaScript and reusable UI |
-| 🎯 UI Components | Forms, modals, accordions, sliders and cards |
-| 🏢 ERP UI | Business applications, dashboards and workflows |
-| 🌐 WordPress | Custom frontend, forms and integrations |
-| ⚡ Performance | Page speed, optimization and clean frontend |
-| 📊 Data Visualization | Interactive charts and business reports |
-| 🤖 AI & Automation | Intelligent digital experiences and workflows |
-
----
-
-# 🏢 Professional Experience
-
-## Axiever ERP
-
-I contribute to modern digital experiences for **Axiever ERP**, working across
-business applications, marketing websites, UI components, forms, dashboards,
-calculators and workflow-driven interfaces.
-
-### ERP Areas
-
-- 💰 Finance & Accounting
-- 📦 Inventory & Supply
-- 👥 Customer & CRM
-- 🛒 Order Management
-- 👨‍💼 HR & Payroll
-- 🤝 Suppliers & Vendors
-- 📊 Reports & Dashboards
-- ⚙️ Approvals & Alerts
-- 📅 Demo Scheduling
-- 🧮 ROI & Business Calculators
-
----
-
-# 🚀 Featured Work
-
-## 📊 Manual Work Cost Calculator
-
-A responsive business calculator designed to help users understand the cost
-of repetitive manual processes.
-
-### Highlights
-
-- Dynamic calculations
-- Interactive UI
-- Responsive design
-- Data visualization
-- Report generation
-- Email report functionality
-- User-friendly workflow
-
-**Tech:** HTML • CSS • JavaScript • Chart.js
-
----
-
-## 💰 ROI Calculator & Reporting
-
-An interactive ROI experience designed around business efficiency and
-automation calculations.
-
-### Features
-
-- Dynamic calculations
-- Interactive charts
-- Form validation
-- Email report functionality
-- Responsive UI
-- Multi-step experience
-- WordPress AJAX integration
-
-**Tech:** HTML • CSS • JavaScript • Chart.js • WordPress • AJAX
-
----
-
-## 📅 Demo Scheduler
-
-A custom scheduling experience inspired by modern booking platforms.
-
-### Features
-
-- Calendar interface
-- Date selection
-- Time-slot selection
-- Timezone selection
-- Multi-step workflow
-- Guest information
-- Notes
-- Form validation
-- Confirmation screen
-- Email notifications
-- Calendar invitation support
-
-**Tech:** HTML • CSS • JavaScript • WordPress • AJAX • PHP
-
----
-
-# 🎯 Interactive Web Experiences
-
-I also create interactive frontend experiences such as:
-
-- ✨ Animated landing pages
-- 💼 Portfolio websites
-- 🎂 Birthday websites
-- 💌 Invitation websites
-- 🧮 Interactive calculators
-- 🎮 Browser games
-- 📊 Dashboard interfaces
-- 🖼️ Image galleries
-- 🎠 Carousels
-- 🪟 Modal systems
-- 📚 Accordions
-- ✨ Animated UI components
-
----
-
-# 📈 GitHub Analytics
+<!-- 
+  =============================================================================
+  🌟 Welcome to rTechCoding's GitHub Profile README!
+  =============================================================================
+-->
 
 <div align="center">
 
-<a href="https://github.com/rTechCoding">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rTechCoding&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    alt="Rahat Ansari GitHub Stats"
-    width="49%"
-  />
-</a>
+  <!-- Animated Greeting Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,13,20,30&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20rTechCoding&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn&font=&desc=Passionate%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Tech%20Creator&descAlignY=62&descAlign=50" width="100%" />
 
-<a href="https://github.com/rTechCoding">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTechCoding&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-    alt="Rahat Ansari Top Languages"
-    width="49%"
-  />
-</a>
+  <!-- Dynamic Typing Effect SVG -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Exploring+Modern+Web+Technologies;Automating+Workflows+with+Code;Turning+Ideas+into+Real-World+Software" alt="Typing SVG" />
+  </p>
+
+  <!-- Social Badge Links -->
+  <p>
+    <a href="https://github.com/rTechCoding" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-rTechCoding-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/rtechcoding" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/rtechcoding" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:contact@rtechcoding.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+### 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 Who I Am</h3>
+      <ul>
+        💻 Full-stack developer with a passion for building robust, high-performance web applications.<br><br>
+        🌱 Constantly exploring new advancements in cloud architecture, AI integrations, and modern UI/UX.<br><br>
+        🎯 Focused on clean code architecture, developer tooling, and scalable system design.<br><br>
+        ⚡ Fun fact: I love automating repetitive tasks and optimizing workflows!
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📫 Quick Connect</h3>
+      <ul>
+        🔭 <b>Working on:</b> Advanced Web Ecosystems & Open Source Tooling<br><br>
+        👯 <b>Looking to collaborate on:</b> Full-stack apps & developer productivity packages<br><br>
+        💬 <b>Ask me about:</b> JavaScript, TypeScript, React, Node.js, and Cloud Services<br><br>
+        ⚡ <b>Goal for 2026:</b> Contribute significantly to open-source developer toolkits
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rTechCoding&theme=tokyonight&hide_border=true" />
+#### 🌐 Languages & Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+#### 🛠️ DevOps, Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rTechCoding&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rTechCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="rTechCoding's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rTechCoding&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rTechCoding&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  </p>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rTechCoding&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
-
----
-
-# 🎯 Currently Exploring
-
-- 🤖 AI-powered web experiences
-- ⚙️ AI & business process automation
-- 🎨 Advanced UI/UX patterns
-- 📱 Responsive design systems
-- ⚡ Frontend performance optimization
-- 🧩 Reusable UI components
-- 📊 Interactive dashboards
-- 🏢 ERP application experiences
-- 🔄 Advanced form workflows
-- 🌐 Modern web technologies
-
----
-
-# 💡 Development Philosophy
-
-> **Design first. Build smart. Keep it simple.**
-
-I believe great frontend development is not only about writing code.
-
-It's about understanding the user, simplifying complex workflows, creating
-clear visual hierarchy, and building interfaces that feel natural to use.
-
-```text
-Understand → Design → Develop → Test → Optimize → Improve
-```
-
----
-
-# 🌐 Let's Connect
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rahat-ansari-52409b223">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/rTechCoding">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:rahatansari933@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rTechCoding&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-# 📫 Contact
-
-**Rahat Ansari**
-
-🎨 UI Designer  
-💻 Frontend Developer  
-🤖 AI & Automation Enthusiast
-
-📧 **Email:** rahatansari933@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/rahat-ansari-52409b223
-
-💻 **GitHub:**  
-https://github.com/rTechCoding
-
----
+### 📈 Profile Views Counter
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rTechCoding&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+</div>
 
-### 🚀 Building modern interfaces. Solving real problems. Learning every day.
+<br>
 
-**"Good design gets attention. Great UX keeps it."**
-
-⭐ If you find my work useful, consider starring a repository!
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,13,20,30&height=100&section=footer" width="100%" />
 </div>
