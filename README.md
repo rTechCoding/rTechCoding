@@ -240,7 +240,7 @@ A modern multi-step booking and scheduling experience.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rTechCoding/rTechCoding/output/github-contribution-grid-snake-dark.svg)
+ <img src="https://raw.githubusercontent.com/rTechCoding/rTechCoding/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
